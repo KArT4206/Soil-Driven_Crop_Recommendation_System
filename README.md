@@ -38,4 +38,32 @@ SmartCrop is a machine learning project built using **R** that predicts the most
 
 ---
 
+## 📸 Screenshots
+
+### 🟢 Dataset Preview
+![Dataset Preview](/images/Screenshot%202025-04-07%20002225.png)
+
+### 📊 Feature Distribution Visualization
+![Feature Visualization](/images/Screenshot%202025-04-07%20002258.png)
+
+### 🧪 Model Training Output
+![Model Training](/images/Screenshot%202025-04-07%20002324.png)
+
+### 📈 Accuracy Metrics
+![Accuracy Metrics](/images/Screenshot%202025-04-07%20002445.png)
+
+### 🧠 Model Prediction Example
+![Model Prediction](/images/Screenshot%202025-04-07%20002607.png)
+
+### ✅ Result Display
+![Result Output](/images/Screenshot%202025-04-07%20002628.png)
+
+### 📉 Confusion Matrix
+![Confusion Matrix](/images/Screenshot%202025-04-07%20002702.png)
+
+### 📊 Precision/Recall Chart
+![Precision Recall](/images/Screenshot%202025-04-07%20002746.png)
+
+### 📌 Final Recommendation
+![Final Recommendation](/images/Screenshot%202025-04-07%20002810.png)
 
