@@ -38,10 +38,4 @@ SmartCrop is a machine learning project built using **R** that predicts the most
 
 ---
 
-## 🚀 Getting Started
 
-```r
-# Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
-
-# Open in RStudio and run the main script
