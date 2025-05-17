@@ -631,8 +631,9 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    A crop recommendation system built in R that suggests the best crop to grow based on soil parameters like N, P, K, pH, humidity, and rainfall. Uses machine learning models to aid data-driven, sustainable farming decisions.
+
+    Copyright (C) 2025  Karthik B
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
