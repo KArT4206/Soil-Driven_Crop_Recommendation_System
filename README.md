@@ -67,3 +67,6 @@ SmartCrop is a machine learning project built using **R** that predicts the most
 ###  Final Recommendation
 ![Final Recommendation](/images/Screenshot%202025-04-07%20002810.png)
 
+Created By Karthik 
+
+GPL-3.0 license
