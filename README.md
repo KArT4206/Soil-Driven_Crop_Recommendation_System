@@ -1,5 +1,8 @@
 # Soil-Driven Crop Recommendation System
 
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue)](LICENSE)
+![Last commit](https://img.shields.io/github/last-commit/KArT4206/Soil-Driven_Crop_Recommendation_System)
+
 A machine-learning project in **R** that recommends the most suitable crop to grow from seven soil and climate measurements: Nitrogen (N), Phosphorus (P), Potassium (K), temperature, humidity, pH and rainfall. A Random Forest classifier trained on 2,200 field records reaches **99.55% accuracy** across **22 crops**, supporting data-driven, sustainable farming decisions.
 
 > This repository documents the project (description, method, results). The source code lives in a private repository, `Soil-Driven_Crop_Recommendation_System-code`. All screenshots below are real RStudio output.
